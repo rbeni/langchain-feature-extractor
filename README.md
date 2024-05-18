@@ -14,7 +14,7 @@ There is content in this repository containing copyrighted material from other c
 
 ## File description
 
-    /news   # Folder containing the webscrapped articles
+    /news                   # Folder containing the webscrapped articles
     news_scrapper.ipynb     # A jupyter notebook containing the code to obtain texts
     process_data.ipynb      # A jupyter notebook containing the code necessary to run the LLM and extract features from the news article
 
